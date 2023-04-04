@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azuza852)](https://solved.ac/azuza852/)
 <!--
 **BaSak0630/BaSak0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
