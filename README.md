@@ -19,11 +19,6 @@ GreenBee (Dept. Club) - 컴퓨터 공학과 학술 동아리  (2022.11 ~ )
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" alt="spring" width="40" height="40"/>
   </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="  https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png
-" alt="spring" width="40" height="40"/>
-  </a>
-
 </p>
 
 
