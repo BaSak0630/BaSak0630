@@ -1,4 +1,4 @@
-<div align= "center">
+<div align= "">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:33d7a5,100:eaed07&height=180&text=Hello!!%20I'm%20BaSak0630&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
@@ -36,10 +36,15 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=BaSak0630&bg_color=60,48afdb,b4ee17&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaSak0630&layout=compact&bg_color=60,48afdb,b4ee17&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
+        <img src="https://github-readme-stats.vercel.app/api?username=BaSak0630&bg_color=60,48afdb,b4ee17&title_color=000000&text_color=000000"
+         />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaSak0630&layout=compact&bg_color=60,48afdb,b4ee17&title_color=000000&text_color=000000"
            /> </div> 
     </div>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azuza852)](https://solved.ac/azuza852/)
+
+
+
