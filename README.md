@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm BaSak0630</h1>
 <h3 align="center">backend developer from Korea</h3>
 
-Dept. of Computer Science and Engineering, BUFS - 부산외국어대학교 컴퓨터 공학과 (2019.3 ~ )
+🎓 Dept. of Computer Science and Engineering, BUFS - 부산외국어대학교 컴퓨터 공학과 (2019.3 ~ )
 
-대한민국 육군 만기 전역 - 6군단 5사단 36연대 수색중대 DMZ GP (2019.12 ~ 2021.06)
+🇰🇷 The 5th Infantry Division ,Republic of Korea Army 대한민국 육군 만기 전역 - 6군단 5사단 36연대 수색중대 DMZ GP (2019.12 ~ 2021.06)
 
-GreenBee (Dept. Club) - 컴퓨터 공학과 학술 동아리  (2022.11 ~ )
+🍀 GreenBee (Dept. Club) - 컴퓨터 공학과 학술 동아리  (2022.11 ~ )
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
