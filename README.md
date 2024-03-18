@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:33d7a5,100:eaed07&height=180&text=Hello!!%20I'm%20BaSak0630&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 연결하는 개발자 김동혁 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> BackEnd developer 김동혁 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
 
 🎓 Dept. of Computer Science and Engineering, BUFS - 부산외국어대학교 컴퓨터 공학과 (2019.3 ~ )
