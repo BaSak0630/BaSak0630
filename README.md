@@ -45,5 +45,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azuza852)](https://solved.ac/azuza852/)
 
-
-![](./profile-3d-contrib/profile-green-animate.svg)
