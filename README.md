@@ -36,12 +36,18 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "left">
+
+
         <img src="https://github-readme-stats.vercel.app/api?username=BaSak0630&bg_color=60,48afdb,b4ee17&title_color=000000&text_color=000000"
          />
+
+        
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaSak0630&layout=compact&bg_color=60,48afdb,b4ee17&title_color=000000&text_color=000000"
            /> </div> 
     </div>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azuza852)](https://solved.ac/azuza852/)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
