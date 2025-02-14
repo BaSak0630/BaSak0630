@@ -5,11 +5,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> BackEnd developer 김동혁 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
 
-🎓 Dept. of Computer Science and Engineering, BUFS - 부산외국어대학교 컴퓨터 공학과 (2019.3 ~ )
+🎓 Dept. of Computer Science and Engineering, BUFS - 부산외국어대학교 컴퓨터 공학과 (2019.3 ~ 2025.02)
 
 🇰🇷 The 5th Infantry Division ,Republic of Korea Army 대한민국 육군 만기 전역 - 6군단 5사단 36연대 수색중대 DMZ GP (2019.12 ~ 2021.06)
 
-🍀 GreenBee (Dept. Club) - 컴퓨터 공학과 학술 동아리  (2022.11 ~ )
+🍀 GreenBee (Dept. Club) - 컴퓨터 공학과 학술 동아리  (2022.11 ~ 2025.02)
 </div> 
     </div>
     <div style="text-align: left;">
